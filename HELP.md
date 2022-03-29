@@ -7,6 +7,7 @@ To run the included *tests*, run the test file using the `pytest` module:
 ```bash
 $ python3 -m pytest main_test.py
 ```
+## Pssssst! In PyCharm you can just hit the run button on line 19 of main_test.py
 
 Many IDE's and code editors have built-in support for using Pytest to run tests; check them out [here](https://github.com/exercism/python/blob/main/docs/TOOLS.md#editors-and-ides).
 
