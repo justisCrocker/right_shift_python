@@ -1,6 +1,7 @@
 # right_shift_python
 
 ## A recreation of iMocha coding challenge with Revature.
+## Write your code in main.py, and check HELP.md for help with running tests
 ## Bellow is the entire original prompt copied
 
 Brute Force: Right Shift
